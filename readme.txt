@@ -1,6 +1,9 @@
 # computer_network_proj1
 Using Trie (Prefix Tree) to perform longest prefix matching
 
+# From ECS 152A: Computer Network at UC Davis, California.
+
+
 #
 # IP2AS: This tool maps an IP address to an AS. It uses static table
 #        Address prefix to AS number collected from whois DB and BGP
